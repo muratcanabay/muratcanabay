@@ -7,11 +7,8 @@
 <img width="75" height="45" alt="java" src="https://user-images.githubusercontent.com/23099059/95229859-c4896a80-0809-11eb-8631-b3c13283fbaa.png">
 &emsp;
 <img width="40" alt="python" src="https://user-images.githubusercontent.com/23099059/95229876-c81cf180-0809-11eb-8470-6e54559a121d.png">
-
 <img width="150" height="45" alt="typescript" src="https://user-images.githubusercontent.com/23099059/95229883-ca7f4b80-0809-11eb-9700-b9e476b52b0f.png">
-
 <img width="55" alt="html" src="https://user-images.githubusercontent.com/23099059/95228467-0b766080-0808-11eb-9914-5d4f22370504.png">
-
 <img width="39" alt="css" src="https://user-images.githubusercontent.com/23099059/95229671-83915600-0809-11eb-85df-4cf03392cc93.png">
 
 <br>

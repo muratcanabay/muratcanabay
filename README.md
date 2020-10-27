@@ -1,4 +1,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcanabay)
+
+![Profile Views](https://komarev.com/ghpvc/?username=muratcanabay&color=brightgreen)
+![website](https://img.shields.io/badge/muratcanabay.github.io-UP-brightgreen)
+
 ### Language
 
 <br>
